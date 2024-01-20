@@ -10,4 +10,4 @@ your game. If you are wondering, The app does not use lua code.
 
 -MADE BY SUSMIC GAMING ON YT www.youtube.com/@susmicgaming
 IF YOU ARE GOING TO USE THIS IN YOUR YOUTUBE VIDEO MAKE SHURE TO CREDIT ME AT www.youtube.com/@susmicgaming
-![icon](https://github.com/susmic-gaming/roblox-fflags/blob/main/Screenshot%202024-01-20%20092023.png)
+![icon](https://raw.githubusercontent.com/susmic-gaming/roblox-fflags/main/yt)
