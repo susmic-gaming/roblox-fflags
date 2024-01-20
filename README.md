@@ -9,3 +9,4 @@ fflags in the roblox root directory when a file is clicked so when restarted app
 your game. If you are wondering, The app does not use lua code.
 
 -MADE BY SUSMIC GAMING ON YT www.youtube.com/@susmicgaming
+IF YOU ARE GOING TO USE THIS IN YOUR YOUTUBE VIDEO MAKE SHURE TO CREDIT ME AT www.youtube.com/@susmicgaming
