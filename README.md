@@ -8,4 +8,4 @@ a roblox hack that uses fflags instead of lua
 fflags in the roblox root directory when a file is clicked so when restarted applys the changes to
 your game. If you are wondering, The app does not use lua code.
 
-#------MADE BY SUSMIC GAMING ON YT (www.youtube.com/@susmicgaming)------
+#------MADE BY SUSMIC GAMING ON YT www.youtube.com/@susmicgaming
